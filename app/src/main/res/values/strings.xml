@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="score_0">Score: 0</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="start">start</string>
+    <string name="replace">↻</string>
+    <string name="down">↓</string>
+    <string name="left">←</string>
+    <string name="right">→</string>
+    <string name="up">↑</string>
+</resources>
